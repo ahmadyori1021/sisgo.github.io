@@ -1,0 +1,1 @@
+var json_canti_6 = {"type":"FeatureCollection","name":"canti_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"7","Korban":null,"Nama":null},"geometry":{"type":"Point","coordinates":[105.622415559620293,-5.822769775285495]}}]}

@@ -1,0 +1,1 @@
+var json_batubalak_5 = {"type":"FeatureCollection","name":"batubalak_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2"},"geometry":{"type":"Point","coordinates":[105.669759282241415,-5.82920283422351]}}]}
